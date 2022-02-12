@@ -12,7 +12,7 @@ void main() {
     ),
     appBar: AppBar(
       centerTitle: true,
-      title: Text('I AM RICH YES YESs'),
+      title: Text('I AM RICH YES'),
       backgroundColor: Colors.amber,
     ),
   )));
